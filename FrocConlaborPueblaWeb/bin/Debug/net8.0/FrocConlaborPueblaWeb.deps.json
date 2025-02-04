@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FrocConlaborPueblaWeb/1.0.0": {
+        "runtime": {
+          "FrocConlaborPueblaWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrocConlaborPueblaWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
